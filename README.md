@@ -1,0 +1,2 @@
+# TestProje
+İnterfaceAbstract
